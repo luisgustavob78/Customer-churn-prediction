@@ -11,8 +11,10 @@ The first step of the project was to do an exploration on the dataset to know th
 ![](https://github.com/luisgustavob78/Customer-churn-prediction/blob/master/GIF%2013-07-2020%2017-02-30.gif)
 
 The analysis also revealed that clients with less than 15 months with the company have bigger chances to churn.
+![](https://github.com/luisgustavob78/Customer-churn-prediction/blob/master/GIF%2013-07-2020%2021-21-34.gif)
 
 To identify the features with great predictive power, we calculated the information gain for each one of them.
+![](https://github.com/luisgustavob78/Customer-churn-prediction/blob/master/GIF%2013-07-2020%2021-22-25.gif)
 
 ## 3. Feature Engineering
 
@@ -22,9 +24,9 @@ The number of features are relatively big, and the high number of categorical va
 
 With that preliminar analysis, we got the following results:
 
-Random Forest: AUC = 0.8
-Logistic Regression: AUC = 0.84
-Neural Network: AUC = 0.85
+* Random Forest: AUC = 0.8
+* Logistic Regression: AUC = 0.84
+* Neural Network: AUC = 0.85
 
 ## 5. Improvements
 
